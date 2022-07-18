@@ -41,7 +41,15 @@ footer.ul {
 }
 .content {
     display: flex;
-    margin-left: auto;
+    margin-left: 35%;
+    margin-right: 30%;
+    border: 2px solid #94c5cc;
+    background-color: #94c5cc;
+    background-image: linear-gradient(#94c5cc, white);
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: .5%;
 }
 .heroImg .imgMain {
     height: 200px;
