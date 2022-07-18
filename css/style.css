@@ -6,6 +6,7 @@
     width: 23%;
     padding-left: 1%;
     text-align: left;
+    padding-top: 1%;
 
 }
 nav {
@@ -44,6 +45,7 @@ footer.ul {
 }
 .heroImg .imgMain {
     height: 200px;
-    padding-top: 5%;
+    padding-top: 1%;
+    opacity: 65%;
 }
 
